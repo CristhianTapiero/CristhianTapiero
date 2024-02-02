@@ -10,7 +10,7 @@
 <p>Me gusta aprender, fortalecer mis conocimientos y sobre todo mantenerme al tanto de novedades en el mundo tech.</p>
 
 <p>Puedes conocer más sobre mí en 
-<a href="https://www.cristhian-tapiero.vercel.app" 
+<a href="https://cristhian-tapiero.vercel.app" 
 target="_blank" style="color: white; text-decoration:none;padding-bottom:.1rem; border-bottom:2px solid #fff;"> mi portafolio </a>. 🌱
 </p>
 <p>Gracias por llegar hasta aquí :)</p>
