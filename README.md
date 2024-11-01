@@ -1,4 +1,4 @@
-<h1>Hola! Soy <span style="color:'#666DF2'">Cristhian Tapiero</span></h1>
+<h1>Hola! Soy <span style="color:#666DF2;">Cristhian Tapiero</span></h1>
 <h2 style="margin-top:-1rem; margin-bottom:-1.5rem">Desarrollador web, ingeniero de sistemas 👨‍💻</h2>
 <h4>De Bogotá, Colombia 📌</h4>
 <p>Soy programador web, con conocimientos globales en areas de backend, bases de datos, análisis de datos entre otras ramas vitales para la ingeniería de sistemas.</p>
